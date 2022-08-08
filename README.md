@@ -10,7 +10,7 @@ Json Database test project in java, was created to practice sockets, gson librar
 - First of all we need to start the server (.\src\main\java\server\Main.class)
 
 - Secondly, we run the client (.\src\main\java\client\Main.class) specifying the action we want to take in the program arguments.\
-      Values that can be specified in the program arguments:\ 
+      Values that can be specified in the program arguments:  
         **-t** - type, takes values: "set", "get" , "delete", "exit" (e.g. "-t set" corresponds to "type":"set")\
         **-k** - key, e.g. "key":"1" corresponds to "-k 1"\
         **-v** - value, e.g. " -v "Hello world!" " corresponds to "value":"Hello world!"\
