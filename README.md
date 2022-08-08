@@ -3,7 +3,8 @@ Json Database test project in java, was created to practice sockets, gson librar
 
 ## Description
       In this project you can start the server that will interuct with database and make changes to it, 
-      when you run client program with appropriete program arguments to make request
+      when you run client program with appropriete program arguments to make request.
+      All the data is saved in json document format.
 ## Instructions
 
 - First of all we need to start the server (.\src\main\java\server\Main.class)
