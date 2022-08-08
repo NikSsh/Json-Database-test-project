@@ -1,7 +1,7 @@
 # Json-Database-test-project
 Json Database test project in java, was created to practice sockets, gson library, jcommander
 
-##Instructions
+## Instructions
 
 - First of all we need to start the server (.\src\main\java\server\Main.class)
 
